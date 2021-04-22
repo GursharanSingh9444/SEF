@@ -23,4 +23,9 @@ public:
 		printf("train\n");
 	}
 
+	void predict()
+	{
+		printf("predict\n");
+	}
+
 };
