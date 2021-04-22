@@ -17,4 +17,15 @@ public:
 	{
 		data = Data;
 	}
+
+	void train()
+	{
+		printf("train\n");
+	}
+
+	void predict()
+	{
+		printf("predict\n");
+	}
+
 };
